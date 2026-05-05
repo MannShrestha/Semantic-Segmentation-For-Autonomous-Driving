@@ -1,0 +1,10 @@
+tensorflow-gpu==2.10.0
+pandas
+numpy
+matplotlib
+opencv-python
+visualkeras
+pillow
+datetime
+scikit-learn
+albumentations
