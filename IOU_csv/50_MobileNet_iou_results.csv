@@ -1,0 +1,14 @@
+Class Index,Class Name,Label,IoU,TP (%),FP (%),FN (%)
+0,Unmarked (background),0 - Unmarked (background),0.9598,95.98,1.63,2.39
+1,Building,1 - Building,0.9403,94.03,3.06,2.91
+2,Fence,2 - Fence,0.6151,61.51,13.25,25.24
+3,Other,3 - Other,0.7065,70.65,12.83,16.52
+4,Pedestrian,4 - Pedestrian,0.0,0.0,7.62,92.38
+5,Post,5 - Post,0.5785,57.85,13.49,28.66
+6,Road markings,6 - Road markings,0.8703,87.03,7.27,5.7
+7,Road,7 - Road,0.9867,98.67,0.55,0.78
+8,Sidewalk,8 - Sidewalk,0.9418,94.18,3.17,2.65
+9,Vegetation,9 - Vegetation,0.8717,87.17,8.29,4.54
+10,Car,10 - Car,0.9883,98.83,0.69,0.48
+11,Wall,11 - Wall,0.8218,82.18,8.81,9.01
+12,Road sign,12 - Road sign,0.6193,61.93,13.64,24.43
