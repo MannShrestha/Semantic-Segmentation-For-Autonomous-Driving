@@ -15,5 +15,9 @@ conda activate your_env_name
 ```
 
 ```bash
+git clone https://github.com/MannShrestha/Semantic-Segmentation-For-Autonomous-Driving.git
+```
+
+```bash
 pip install -r requirements.txt
 ```
